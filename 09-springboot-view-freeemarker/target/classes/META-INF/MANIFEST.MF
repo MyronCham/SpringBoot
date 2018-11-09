@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 09-springboot-view-freeemarker
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.nari
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/09-springboo
+ t-view-freeemarker/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
