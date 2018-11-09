@@ -11,7 +11,7 @@
     <version>1.5.10.RELEASE</version>
   </parent>
   
-   <!-- 修改jdk版本 -->
+   <!-- 修改jdk版本  -->
   <properties>
   	<java.version>1.8</java.version>
   </properties>
